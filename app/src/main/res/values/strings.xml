@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WA Number Scanner</string>
+    <string name="accessibility_description">Reads WhatsApp chat list to detect unsaved numbers automatically. No messages are read — only contact names visible in the chat list.</string>
+    <string name="enable_accessibility">Enable Accessibility Service</string>
+    <string name="grant_contacts">Grant Contacts Permission</string>
+    <string name="scan_complete">Scan Complete</string>
+    <string name="no_unsaved">No unsaved numbers found!</string>
+    <string name="saving_contacts">Saving contacts…</string>
+    <string name="done">Done</string>
+    <string name="export_vcf">Export VCF</string>
+    <string name="export_txt">Export TXT</string>
+    <string name="save_all">Save All to Contacts</string>
+    <string name="base_name_hint">Enter base name (e.g. Old Client)</string>
+    <string name="cancel">Cancel</string>
+</resources>

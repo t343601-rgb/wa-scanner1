@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#121212</color>
+    <color name="surface_dark">#1E1E2E</color>
+    <color name="card_dark">#252535</color>
+    <color name="accent_green">#00E676</color>
+    <color name="accent_green_dark">#00B248</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#AAAAAA</color>
+    <color name="text_hint">#666666</color>
+    <color name="divider">#2A2A3A</color>
+    <color name="badge_unsaved">#FF5252</color>
+    <color name="badge_saved">#00E676</color>
+    <color name="whatsapp_green">#25D366</color>
+</resources>
